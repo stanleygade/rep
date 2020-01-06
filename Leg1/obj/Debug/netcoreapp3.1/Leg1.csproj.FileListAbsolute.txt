@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\CSKursus\Leg1\bin\Debug\netcoreapp3.1\Leg1.exe
+C:\Users\admin\source\repos\CSKursus\Leg1\bin\Debug\netcoreapp3.1\Leg1.deps.json
+C:\Users\admin\source\repos\CSKursus\Leg1\bin\Debug\netcoreapp3.1\Leg1.runtimeconfig.json
+C:\Users\admin\source\repos\CSKursus\Leg1\bin\Debug\netcoreapp3.1\Leg1.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CSKursus\Leg1\bin\Debug\netcoreapp3.1\Leg1.dll
+C:\Users\admin\source\repos\CSKursus\Leg1\bin\Debug\netcoreapp3.1\Leg1.pdb
+C:\Users\admin\source\repos\CSKursus\Leg1\obj\Debug\netcoreapp3.1\Leg1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CSKursus\Leg1\obj\Debug\netcoreapp3.1\Leg1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSKursus\Leg1\obj\Debug\netcoreapp3.1\Leg1.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSKursus\Leg1\obj\Debug\netcoreapp3.1\Leg1.dll
+C:\Users\admin\source\repos\CSKursus\Leg1\obj\Debug\netcoreapp3.1\Leg1.pdb
