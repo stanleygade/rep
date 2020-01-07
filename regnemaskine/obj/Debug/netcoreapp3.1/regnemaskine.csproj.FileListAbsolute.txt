@@ -1,0 +1,11 @@
+C:\git\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.exe
+C:\git\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.deps.json
+C:\git\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.runtimeconfig.json
+C:\git\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.runtimeconfig.dev.json
+C:\git\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.dll
+C:\git\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.pdb
+C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.csprojAssemblyReference.cache
+C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.AssemblyInfoInputs.cache
+C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.AssemblyInfo.cs
+C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.dll
+C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.pdb

@@ -1,0 +1,11 @@
+C:\git\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.exe
+C:\git\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.deps.json
+C:\git\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.runtimeconfig.json
+C:\git\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.runtimeconfig.dev.json
+C:\git\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.dll
+C:\git\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.pdb
+C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.csprojAssemblyReference.cache
+C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.AssemblyInfoInputs.cache
+C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.AssemblyInfo.cs
+C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.dll
+C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.pdb
