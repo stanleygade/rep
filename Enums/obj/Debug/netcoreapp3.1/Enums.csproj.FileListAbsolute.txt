@@ -8,3 +8,4 @@ C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
 C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
 C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.dll
 C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
