@@ -1,0 +1,11 @@
+C:\git\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.exe
+C:\git\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.deps.json
+C:\git\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.runtimeconfig.json
+C:\git\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.runtimeconfig.dev.json
+C:\git\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.dll
+C:\git\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.pdb
+C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.csprojAssemblyReference.cache
+C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.AssemblyInfoInputs.cache
+C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.AssemblyInfo.cs
+C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.dll
+C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.pdb

@@ -6,7 +6,18 @@ namespace FejlHåndtering
     {
         static void Main(string[] args)
         {
-            Run();
+            int count = 0;
+            try
+            {
+                Run();
+            }
+            catch (Exception e)
+            {
+                count++;
+                Console.WriteLine($"Der er sket en fejl: {e}" );
+                Console.WriteLine(e); 
+            }
+
         }
 
         private static void Run()
