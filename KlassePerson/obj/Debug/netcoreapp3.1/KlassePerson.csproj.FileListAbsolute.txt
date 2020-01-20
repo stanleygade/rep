@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\KlassePerson\bin\Debug\netcoreapp3.1\KlassePerson.exe
+C:\Users\admin\source\repos\rep\KlassePerson\bin\Debug\netcoreapp3.1\KlassePerson.deps.json
+C:\Users\admin\source\repos\rep\KlassePerson\bin\Debug\netcoreapp3.1\KlassePerson.runtimeconfig.json
+C:\Users\admin\source\repos\rep\KlassePerson\bin\Debug\netcoreapp3.1\KlassePerson.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\KlassePerson\bin\Debug\netcoreapp3.1\KlassePerson.dll
+C:\Users\admin\source\repos\rep\KlassePerson\bin\Debug\netcoreapp3.1\KlassePerson.pdb
+C:\Users\admin\source\repos\rep\KlassePerson\obj\Debug\netcoreapp3.1\KlassePerson.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\KlassePerson\obj\Debug\netcoreapp3.1\KlassePerson.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\KlassePerson\obj\Debug\netcoreapp3.1\KlassePerson.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\KlassePerson\obj\Debug\netcoreapp3.1\KlassePerson.dll
+C:\Users\admin\source\repos\rep\KlassePerson\obj\Debug\netcoreapp3.1\KlassePerson.pdb

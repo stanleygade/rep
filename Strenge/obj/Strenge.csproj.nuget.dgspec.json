@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\rep\\Strenge\\Strenge.csproj": {}
+    "C:\\Users\\admin\\Source\\Repos\\rep\\Strenge\\Strenge.csproj": {}
   },
   "projects": {
-    "C:\\git\\rep\\Strenge\\Strenge.csproj": {
+    "C:\\Users\\admin\\Source\\Repos\\rep\\Strenge\\Strenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\rep\\Strenge\\Strenge.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\Strenge\\Strenge.csproj",
         "projectName": "Strenge",
-        "projectPath": "C:\\git\\rep\\Strenge\\Strenge.csproj",
+        "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Strenge\\Strenge.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\rep\\Strenge\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Strenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

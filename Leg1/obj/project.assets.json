@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\rep\\Leg1\\Leg1.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\Leg1\\Leg1.csproj",
       "projectName": "Leg1",
-      "projectPath": "C:\\git\\rep\\Leg1\\Leg1.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Leg1\\Leg1.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\rep\\Leg1\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Leg1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

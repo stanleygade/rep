@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\rep\\DebugDemo\\DebugDemo.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\DebugDemo\\DebugDemo.csproj",
       "projectName": "DebugDemo",
-      "projectPath": "C:\\git\\rep\\DebugDemo\\DebugDemo.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\DebugDemo\\DebugDemo.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\rep\\DebugDemo\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\DebugDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

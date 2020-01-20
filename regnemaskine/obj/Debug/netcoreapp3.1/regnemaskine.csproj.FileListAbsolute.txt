@@ -9,3 +9,14 @@ C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.AssemblyInfoInputs.
 C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.AssemblyInfo.cs
 C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.dll
 C:\git\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.pdb
+C:\Users\admin\Source\Repos\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.exe
+C:\Users\admin\Source\Repos\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.deps.json
+C:\Users\admin\Source\Repos\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.runtimeconfig.json
+C:\Users\admin\Source\Repos\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.dll
+C:\Users\admin\Source\Repos\rep\regnemaskine\bin\Debug\netcoreapp3.1\regnemaskine.pdb
+C:\Users\admin\Source\Repos\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.dll
+C:\Users\admin\Source\Repos\rep\regnemaskine\obj\Debug\netcoreapp3.1\regnemaskine.pdb

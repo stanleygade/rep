@@ -16,13 +16,13 @@ namespace Strenge
             Console.WriteLine(stortNavn);
             Console.WriteLine(efternavn.Substring(0, 4));
             string path = "c:\\test\\test.txt";
-         try {
+       /*  try {
                 System.IO.File.WriteAllText(path, stortNavn);
             }
             catch (FormatException e)
             {
                 Console.WriteLine(e.Message);
-            }
+            }*/
             
             
             }

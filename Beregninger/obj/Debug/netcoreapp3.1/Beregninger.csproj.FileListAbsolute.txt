@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\Beregninger\bin\Debug\netcoreapp3.1\Beregninger.exe
+C:\Users\admin\source\repos\rep\Beregninger\bin\Debug\netcoreapp3.1\Beregninger.deps.json
+C:\Users\admin\source\repos\rep\Beregninger\bin\Debug\netcoreapp3.1\Beregninger.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Beregninger\bin\Debug\netcoreapp3.1\Beregninger.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Beregninger\bin\Debug\netcoreapp3.1\Beregninger.dll
+C:\Users\admin\source\repos\rep\Beregninger\bin\Debug\netcoreapp3.1\Beregninger.pdb
+C:\Users\admin\source\repos\rep\Beregninger\obj\Debug\netcoreapp3.1\Beregninger.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\Beregninger\obj\Debug\netcoreapp3.1\Beregninger.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Beregninger\obj\Debug\netcoreapp3.1\Beregninger.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Beregninger\obj\Debug\netcoreapp3.1\Beregninger.dll
+C:\Users\admin\source\repos\rep\Beregninger\obj\Debug\netcoreapp3.1\Beregninger.pdb

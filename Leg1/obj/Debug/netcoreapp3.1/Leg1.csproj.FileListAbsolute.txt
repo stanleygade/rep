@@ -20,3 +20,14 @@ C:\git\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.AssemblyInfoInputs.cache
 C:\git\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.AssemblyInfo.cs
 C:\git\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.dll
 C:\git\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.pdb
+C:\Users\admin\Source\Repos\rep\Leg1\bin\Debug\netcoreapp3.1\Leg1.exe
+C:\Users\admin\Source\Repos\rep\Leg1\bin\Debug\netcoreapp3.1\Leg1.deps.json
+C:\Users\admin\Source\Repos\rep\Leg1\bin\Debug\netcoreapp3.1\Leg1.runtimeconfig.json
+C:\Users\admin\Source\Repos\rep\Leg1\bin\Debug\netcoreapp3.1\Leg1.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\rep\Leg1\bin\Debug\netcoreapp3.1\Leg1.dll
+C:\Users\admin\Source\Repos\rep\Leg1\bin\Debug\netcoreapp3.1\Leg1.pdb
+C:\Users\admin\Source\Repos\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.dll
+C:\Users\admin\Source\Repos\rep\Leg1\obj\Debug\netcoreapp3.1\Leg1.pdb

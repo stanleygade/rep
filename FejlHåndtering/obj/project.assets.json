@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\rep\\FejlHåndtering\\FejlHåndtering.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\FejlHåndtering\\FejlHåndtering.csproj",
       "projectName": "FejlHåndtering",
-      "projectPath": "C:\\git\\rep\\FejlHåndtering\\FejlHåndtering.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\FejlHåndtering\\FejlHåndtering.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\rep\\FejlHåndtering\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\FejlHåndtering\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

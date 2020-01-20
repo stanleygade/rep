@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\rep\\FlowControl\\FlowControl.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\FlowControl\\FlowControl.csproj",
       "projectName": "FlowControl",
-      "projectPath": "C:\\git\\rep\\FlowControl\\FlowControl.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\FlowControl\\FlowControl.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\rep\\FlowControl\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\FlowControl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

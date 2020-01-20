@@ -9,3 +9,14 @@ C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.AssemblyInfoI
 C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.AssemblyInfo.cs
 C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.dll
 C:\git\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.pdb
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.exe
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.deps.json
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.runtimeconfig.json
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.dll
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\bin\Debug\netcoreapp3.1\FejlHåndtering.pdb
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.dll
+C:\Users\admin\Source\Repos\rep\FejlHåndtering\obj\Debug\netcoreapp3.1\FejlHåndtering.pdb

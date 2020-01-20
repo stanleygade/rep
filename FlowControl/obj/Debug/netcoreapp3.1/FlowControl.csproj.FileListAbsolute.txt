@@ -8,3 +8,14 @@ C:\git\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.AssemblyInfoInputs.ca
 C:\git\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.AssemblyInfo.cs
 C:\git\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.dll
 C:\git\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.pdb
+C:\Users\admin\Source\Repos\rep\FlowControl\bin\Debug\netcoreapp3.1\FlowControl.exe
+C:\Users\admin\Source\Repos\rep\FlowControl\bin\Debug\netcoreapp3.1\FlowControl.deps.json
+C:\Users\admin\Source\Repos\rep\FlowControl\bin\Debug\netcoreapp3.1\FlowControl.runtimeconfig.json
+C:\Users\admin\Source\Repos\rep\FlowControl\bin\Debug\netcoreapp3.1\FlowControl.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\rep\FlowControl\bin\Debug\netcoreapp3.1\FlowControl.dll
+C:\Users\admin\Source\Repos\rep\FlowControl\bin\Debug\netcoreapp3.1\FlowControl.pdb
+C:\Users\admin\Source\Repos\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.dll
+C:\Users\admin\Source\Repos\rep\FlowControl\obj\Debug\netcoreapp3.1\FlowControl.pdb

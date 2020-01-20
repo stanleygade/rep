@@ -7,19 +7,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DebugDemo", "DebugDemo\Debu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leg1", "Leg1\Leg1.csproj", "{14C1CB24-D628-4CC2-9128-20958AA673A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "regnemaskine", "regnemaskine\regnemaskine.csproj", "{B5497564-C546-4EF3-92E2-9E18E706B912}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "regnemaskine", "regnemaskine\regnemaskine.csproj", "{B5497564-C546-4EF3-92E2-9E18E706B912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strenge", "Strenge\Strenge.csproj", "{7967D92C-C07C-4964-840D-3FAEF0B7F189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strenge", "Strenge\Strenge.csproj", "{7967D92C-C07C-4964-840D-3FAEF0B7F189}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{FBB88C76-7E9F-4791-8672-8D1F5533C8DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enums", "Enums\Enums.csproj", "{FBB88C76-7E9F-4791-8672-8D1F5533C8DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControl", "FlowControl\FlowControl.csproj", "{A87C66D0-2506-403D-BC09-DF2CA94E5FF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowControl", "FlowControl\FlowControl.csproj", "{A87C66D0-2506-403D-BC09-DF2CA94E5FF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder", "Metoder\Metoder.csproj", "{33A82368-271D-4EBD-954E-D7D49F721620}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metoder", "Metoder\Metoder.csproj", "{33A82368-271D-4EBD-954E-D7D49F721620}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fil", "Fil\Fil.csproj", "{F726F645-B982-4EBA-9BBD-F2F16A44C3A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fil", "Fil\Fil.csproj", "{F726F645-B982-4EBA-9BBD-F2F16A44C3A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{F4BAAAC1-08A9-47C7-B9E6-CA4FCC69588E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{F4BAAAC1-08A9-47C7-B9E6-CA4FCC69588E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{A4BF613C-5541-46EB-8CE4-0B27FB7DC891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{B8C9AA52-3152-45AA-B29A-AFEA84FEE003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser", "Klasser\Klasser.csproj", "{ECB2D434-6191-48D7-A838-0E863440031D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlassePerson", "KlassePerson\KlassePerson.csproj", "{AAAEC5ED-81F9-487D-B575-01657A2F56F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beregninger", "Beregninger\Beregninger.csproj", "{36B9DB2A-4445-41B4-AED2-F134B3D400D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{F4BAAAC1-08A9-47C7-B9E6-CA4FCC69588E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4BAAAC1-08A9-47C7-B9E6-CA4FCC69588E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4BAAAC1-08A9-47C7-B9E6-CA4FCC69588E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BF613C-5541-46EB-8CE4-0B27FB7DC891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BF613C-5541-46EB-8CE4-0B27FB7DC891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BF613C-5541-46EB-8CE4-0B27FB7DC891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BF613C-5541-46EB-8CE4-0B27FB7DC891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C9AA52-3152-45AA-B29A-AFEA84FEE003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C9AA52-3152-45AA-B29A-AFEA84FEE003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C9AA52-3152-45AA-B29A-AFEA84FEE003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C9AA52-3152-45AA-B29A-AFEA84FEE003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB2D434-6191-48D7-A838-0E863440031D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB2D434-6191-48D7-A838-0E863440031D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB2D434-6191-48D7-A838-0E863440031D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB2D434-6191-48D7-A838-0E863440031D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAEC5ED-81F9-487D-B575-01657A2F56F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAEC5ED-81F9-487D-B575-01657A2F56F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAEC5ED-81F9-487D-B575-01657A2F56F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAEC5ED-81F9-487D-B575-01657A2F56F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B9DB2A-4445-41B4-AED2-F134B3D400D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B9DB2A-4445-41B4-AED2-F134B3D400D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B9DB2A-4445-41B4-AED2-F134B3D400D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B9DB2A-4445-41B4-AED2-F134B3D400D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

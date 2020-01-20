@@ -9,3 +9,14 @@ C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.AssemblyInfoInputs.cache
 C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.AssemblyInfo.cs
 C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.dll
 C:\git\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.pdb
+C:\Users\admin\Source\Repos\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.exe
+C:\Users\admin\Source\Repos\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.deps.json
+C:\Users\admin\Source\Repos\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.runtimeconfig.json
+C:\Users\admin\Source\Repos\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.dll
+C:\Users\admin\Source\Repos\rep\Strenge\bin\Debug\netcoreapp3.1\Strenge.pdb
+C:\Users\admin\Source\Repos\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.dll
+C:\Users\admin\Source\Repos\rep\Strenge\obj\Debug\netcoreapp3.1\Strenge.pdb

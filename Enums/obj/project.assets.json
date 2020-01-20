@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\rep\\Enums\\Enums.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\Enums.csproj",
       "projectName": "Enums",
-      "projectPath": "C:\\git\\rep\\Enums\\Enums.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\Enums.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\rep\\Enums\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

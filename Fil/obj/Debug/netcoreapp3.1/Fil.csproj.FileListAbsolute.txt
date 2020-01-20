@@ -9,3 +9,14 @@ C:\git\rep\Fil\obj\Debug\netcoreapp3.1\Fil.AssemblyInfo.cs
 C:\git\rep\Fil\obj\Debug\netcoreapp3.1\Fil.dll
 C:\git\rep\Fil\obj\Debug\netcoreapp3.1\Fil.pdb
 C:\git\rep\Fil\obj\Debug\netcoreapp3.1\Fil.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\Fil\bin\Debug\netcoreapp3.1\Fil.exe
+C:\Users\admin\Source\Repos\rep\Fil\bin\Debug\netcoreapp3.1\Fil.deps.json
+C:\Users\admin\Source\Repos\rep\Fil\bin\Debug\netcoreapp3.1\Fil.runtimeconfig.json
+C:\Users\admin\Source\Repos\rep\Fil\bin\Debug\netcoreapp3.1\Fil.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\rep\Fil\bin\Debug\netcoreapp3.1\Fil.dll
+C:\Users\admin\Source\Repos\rep\Fil\bin\Debug\netcoreapp3.1\Fil.pdb
+C:\Users\admin\Source\Repos\rep\Fil\obj\Debug\netcoreapp3.1\Fil.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\Fil\obj\Debug\netcoreapp3.1\Fil.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\rep\Fil\obj\Debug\netcoreapp3.1\Fil.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\rep\Fil\obj\Debug\netcoreapp3.1\Fil.dll
+C:\Users\admin\Source\Repos\rep\Fil\obj\Debug\netcoreapp3.1\Fil.pdb

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\rep\\Metoder\\Metoder.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\Metoder\\Metoder.csproj",
       "projectName": "Metoder",
-      "projectPath": "C:\\git\\rep\\Metoder\\Metoder.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Metoder\\Metoder.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\rep\\Metoder\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Metoder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

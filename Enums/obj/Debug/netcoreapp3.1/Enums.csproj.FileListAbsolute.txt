@@ -9,3 +9,14 @@ C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
 C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.dll
 C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
 C:\git\rep\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\admin\Source\Repos\rep\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\admin\Source\Repos\rep\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\admin\Source\Repos\rep\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\rep\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\admin\Source\Repos\rep\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\admin\Source\Repos\rep\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\rep\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\rep\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\rep\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\admin\Source\Repos\rep\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
