@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Opg 90.4 Terning med egenskaber/1.0.0": {
+        "runtime": {
+          "Opg 90.4 Terning med egenskaber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opg 90.4 Terning med egenskaber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

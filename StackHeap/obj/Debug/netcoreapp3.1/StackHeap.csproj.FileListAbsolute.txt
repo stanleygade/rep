@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.exe
+C:\Users\admin\source\repos\rep\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.deps.json
+C:\Users\admin\source\repos\rep\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.json
+C:\Users\admin\source\repos\rep\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\admin\source\repos\rep\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.pdb
+C:\Users\admin\source\repos\rep\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\admin\source\repos\rep\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.pdb

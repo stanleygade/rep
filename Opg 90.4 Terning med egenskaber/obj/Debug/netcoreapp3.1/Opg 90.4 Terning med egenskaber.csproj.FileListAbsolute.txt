@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\bin\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.exe
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\bin\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.deps.json
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\bin\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\bin\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\bin\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.dll
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\bin\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.pdb
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\obj\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\obj\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\obj\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\obj\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.dll
+C:\Users\admin\source\repos\rep\Opg 90.4 Terning med egenskaber\obj\Debug\netcoreapp3.1\Opg 90.4 Terning med egenskaber.pdb

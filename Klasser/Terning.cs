@@ -8,7 +8,7 @@ namespace Klasser
         private bool snyd;
         private static System.Random rnd = new System.Random();
 
-        ublic Terning()
+        public Terning()
         {
             snyd = false;
             værdi = 1;

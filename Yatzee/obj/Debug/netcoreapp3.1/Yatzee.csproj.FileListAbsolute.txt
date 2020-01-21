@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\Yatzee\obj\Debug\netcoreapp3.1\Yatzee.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Yatzee\obj\Debug\netcoreapp3.1\Yatzee.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Yatzee\bin\Debug\netcoreapp3.1\Yatzee.exe
+C:\Users\admin\source\repos\rep\Yatzee\bin\Debug\netcoreapp3.1\Yatzee.deps.json
+C:\Users\admin\source\repos\rep\Yatzee\bin\Debug\netcoreapp3.1\Yatzee.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Yatzee\bin\Debug\netcoreapp3.1\Yatzee.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Yatzee\bin\Debug\netcoreapp3.1\Yatzee.dll
+C:\Users\admin\source\repos\rep\Yatzee\bin\Debug\netcoreapp3.1\Yatzee.pdb
+C:\Users\admin\source\repos\rep\Yatzee\obj\Debug\netcoreapp3.1\Yatzee.dll
+C:\Users\admin\source\repos\rep\Yatzee\obj\Debug\netcoreapp3.1\Yatzee.pdb
+C:\Users\admin\source\repos\rep\Yatzee\obj\Debug\netcoreapp3.1\Yatzee.csprojAssemblyReference.cache

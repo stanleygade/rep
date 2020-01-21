@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\bin\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.exe
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\bin\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.deps.json
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\bin\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\bin\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\bin\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.dll
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\bin\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.pdb
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\obj\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\obj\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\obj\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\obj\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.dll
+C:\Users\admin\source\repos\rep\Opg 90.2 _ klassisk fejl\obj\Debug\netcoreapp3.1\Opg 90.2 _ klassisk fejl.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\Nedarvning\bin\Debug\netcoreapp3.1\Nedarvning.exe
+C:\Users\admin\source\repos\rep\Nedarvning\bin\Debug\netcoreapp3.1\Nedarvning.deps.json
+C:\Users\admin\source\repos\rep\Nedarvning\bin\Debug\netcoreapp3.1\Nedarvning.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Nedarvning\bin\Debug\netcoreapp3.1\Nedarvning.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Nedarvning\bin\Debug\netcoreapp3.1\Nedarvning.dll
+C:\Users\admin\source\repos\rep\Nedarvning\bin\Debug\netcoreapp3.1\Nedarvning.pdb
+C:\Users\admin\source\repos\rep\Nedarvning\obj\Debug\netcoreapp3.1\Nedarvning.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\Nedarvning\obj\Debug\netcoreapp3.1\Nedarvning.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Nedarvning\obj\Debug\netcoreapp3.1\Nedarvning.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Nedarvning\obj\Debug\netcoreapp3.1\Nedarvning.dll
+C:\Users\admin\source\repos\rep\Nedarvning\obj\Debug\netcoreapp3.1\Nedarvning.pdb

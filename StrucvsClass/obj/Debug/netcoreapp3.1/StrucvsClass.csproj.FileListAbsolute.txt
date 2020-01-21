@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\StrucvsClass\bin\Debug\netcoreapp3.1\StrucvsClass.exe
+C:\Users\admin\source\repos\rep\StrucvsClass\bin\Debug\netcoreapp3.1\StrucvsClass.deps.json
+C:\Users\admin\source\repos\rep\StrucvsClass\bin\Debug\netcoreapp3.1\StrucvsClass.runtimeconfig.json
+C:\Users\admin\source\repos\rep\StrucvsClass\bin\Debug\netcoreapp3.1\StrucvsClass.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\StrucvsClass\bin\Debug\netcoreapp3.1\StrucvsClass.dll
+C:\Users\admin\source\repos\rep\StrucvsClass\bin\Debug\netcoreapp3.1\StrucvsClass.pdb
+C:\Users\admin\source\repos\rep\StrucvsClass\obj\Debug\netcoreapp3.1\StrucvsClass.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\StrucvsClass\obj\Debug\netcoreapp3.1\StrucvsClass.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\StrucvsClass\obj\Debug\netcoreapp3.1\StrucvsClass.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\StrucvsClass\obj\Debug\netcoreapp3.1\StrucvsClass.dll
+C:\Users\admin\source\repos\rep\StrucvsClass\obj\Debug\netcoreapp3.1\StrucvsClass.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\bin\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.exe
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\bin\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.deps.json
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\bin\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\bin\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\bin\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.dll
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\bin\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.pdb
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\obj\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\obj\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\obj\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\obj\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.dll
+C:\Users\admin\source\repos\rep\Opg 90.1 _ Full Property\obj\Debug\netcoreapp3.1\Opg 90.1 _ Full Property.pdb
