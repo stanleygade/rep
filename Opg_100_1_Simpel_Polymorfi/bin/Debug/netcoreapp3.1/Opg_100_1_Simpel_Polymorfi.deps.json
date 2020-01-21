@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Opg_100_1_Simpel_Polymorfi/1.0.0": {
+        "runtime": {
+          "Opg_100_1_Simpel_Polymorfi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opg_100_1_Simpel_Polymorfi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg 90.6 Automatiske egensk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nedarvning", "Nedarvning\Nedarvning.csproj", "{BA75D18A-55EF-4A83-8D40-A397F53A5F29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg_100_1_Simpel_Polymorfi", "Opg_100_1_Simpel_Polymorfi\Opg_100_1_Simpel_Polymorfi.csproj", "{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{BA75D18A-55EF-4A83-8D40-A397F53A5F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA75D18A-55EF-4A83-8D40-A397F53A5F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA75D18A-55EF-4A83-8D40-A397F53A5F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
