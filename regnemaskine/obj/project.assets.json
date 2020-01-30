@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\regnemaskine\\regnemaskine.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\rep\\regnemaskine\\regnemaskine.csproj",
       "projectName": "regnemaskine",
-      "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\regnemaskine\\regnemaskine.csproj",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\rep\\regnemaskine\\regnemaskine.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\regnemaskine\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\rep\\regnemaskine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

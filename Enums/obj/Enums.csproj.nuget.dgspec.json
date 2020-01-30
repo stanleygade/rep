@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\Enums.csproj": {}
+    "C:\\Users\\admin\\source\\repos\\rep\\Enums\\Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\Enums.csproj": {
+    "C:\\Users\\admin\\source\\repos\\rep\\Enums\\Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\Enums.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\rep\\Enums\\Enums.csproj",
         "projectName": "Enums",
-        "projectPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\Enums.csproj",
+        "projectPath": "C:\\Users\\admin\\source\\repos\\rep\\Enums\\Enums.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Source\\Repos\\rep\\Enums\\obj\\",
+        "outputPath": "C:\\Users\\admin\\source\\repos\\rep\\Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

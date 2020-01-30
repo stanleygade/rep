@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "opg_120_2_delegates_regnemaskine/1.0.0": {
+        "runtime": {
+          "opg_120_2_delegates_regnemaskine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opg_120_2_delegates_regnemaskine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\bin\Debug\netcoreapp3.1\Opg_110_2_Interface.exe
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\bin\Debug\netcoreapp3.1\Opg_110_2_Interface.deps.json
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\bin\Debug\netcoreapp3.1\Opg_110_2_Interface.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\bin\Debug\netcoreapp3.1\Opg_110_2_Interface.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\bin\Debug\netcoreapp3.1\Opg_110_2_Interface.dll
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\bin\Debug\netcoreapp3.1\Opg_110_2_Interface.pdb
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\obj\Debug\netcoreapp3.1\Opg_110_2_Interface.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\obj\Debug\netcoreapp3.1\Opg_110_2_Interface.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\obj\Debug\netcoreapp3.1\Opg_110_2_Interface.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\obj\Debug\netcoreapp3.1\Opg_110_2_Interface.dll
+C:\Users\admin\source\repos\rep\Opg_110_2_Interface\obj\Debug\netcoreapp3.1\Opg_110_2_Interface.pdb

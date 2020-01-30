@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\bin\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.exe
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\bin\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.deps.json
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\bin\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\bin\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\bin\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.dll
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\bin\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.pdb
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\obj\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\obj\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\obj\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.dll
+C:\Users\admin\source\repos\rep\Opg_105_4_Polymorfi\obj\Debug\netcoreapp3.1\Opg_105_4_Polymorfi.pdb

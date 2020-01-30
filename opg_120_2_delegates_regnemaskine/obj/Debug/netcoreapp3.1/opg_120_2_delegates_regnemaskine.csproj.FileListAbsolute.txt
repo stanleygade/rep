@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\bin\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.exe
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\bin\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.deps.json
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\bin\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.runtimeconfig.json
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\bin\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\bin\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.dll
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\bin\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.pdb
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\obj\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\obj\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\obj\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.dll
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\obj\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.pdb
+C:\Users\admin\source\repos\rep\opg_120_2_delegates_regnemaskine\obj\Debug\netcoreapp3.1\opg_120_2_delegates_regnemaskine.csprojAssemblyReference.cache

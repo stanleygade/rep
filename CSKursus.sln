@@ -21,33 +21,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fil", "Fil\Fil.csproj", "{F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{F4BAAAC1-08A9-47C7-B9E6-CA4FCC69588E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{A4BF613C-5541-46EB-8CE4-0B27FB7DC891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{A4BF613C-5541-46EB-8CE4-0B27FB7DC891}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{B8C9AA52-3152-45AA-B29A-AFEA84FEE003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{B8C9AA52-3152-45AA-B29A-AFEA84FEE003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser", "Klasser\Klasser.csproj", "{ECB2D434-6191-48D7-A838-0E863440031D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Klasser", "Klasser\Klasser.csproj", "{ECB2D434-6191-48D7-A838-0E863440031D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlassePerson", "KlassePerson\KlassePerson.csproj", "{AAAEC5ED-81F9-487D-B575-01657A2F56F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KlassePerson", "KlassePerson\KlassePerson.csproj", "{AAAEC5ED-81F9-487D-B575-01657A2F56F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beregninger", "Beregninger\Beregninger.csproj", "{36B9DB2A-4445-41B4-AED2-F134B3D400D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beregninger", "Beregninger\Beregninger.csproj", "{36B9DB2A-4445-41B4-AED2-F134B3D400D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrucvsClass", "StrucvsClass\StrucvsClass.csproj", "{3AE752B2-12AE-415D-B1A9-DA7FF47AB100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrucvsClass", "StrucvsClass\StrucvsClass.csproj", "{3AE752B2-12AE-415D-B1A9-DA7FF47AB100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackHeap", "StackHeap\StackHeap.csproj", "{7D1F1700-7F75-4D7B-AE4F-ABE7116E1FBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackHeap", "StackHeap\StackHeap.csproj", "{7D1F1700-7F75-4D7B-AE4F-ABE7116E1FBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yatzee", "Yatzee\Yatzee.csproj", "{006971CA-0EF0-4BEE-99C3-DB1EBC14D6AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yatzee", "Yatzee\Yatzee.csproj", "{006971CA-0EF0-4BEE-99C3-DB1EBC14D6AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg 90.1 _ Full Property", "Opg 90.1 _ Full Property\Opg 90.1 _ Full Property.csproj", "{7258E7B6-81DC-4681-BDA8-0978B2FA7F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg 90.1 _ Full Property", "Opg 90.1 _ Full Property\Opg 90.1 _ Full Property.csproj", "{7258E7B6-81DC-4681-BDA8-0978B2FA7F92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg 90.2 _ klassisk fejl", "Opg 90.2 _ klassisk fejl\Opg 90.2 _ klassisk fejl.csproj", "{70B66EF9-215D-4187-9D9F-A56B3786E4A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg 90.2 _ klassisk fejl", "Opg 90.2 _ klassisk fejl\Opg 90.2 _ klassisk fejl.csproj", "{70B66EF9-215D-4187-9D9F-A56B3786E4A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg 90.4 Terning med egenskaber", "Opg 90.4 Terning med egenskaber\Opg 90.4 Terning med egenskaber.csproj", "{8BBA9203-0BF3-4161-91E8-E9993BF6859B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg 90.4 Terning med egenskaber", "Opg 90.4 Terning med egenskaber\Opg 90.4 Terning med egenskaber.csproj", "{8BBA9203-0BF3-4161-91E8-E9993BF6859B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg 90.6 Automatiske egenskaber", "ConsoleApp2\Opg 90.6 Automatiske egenskaber.csproj", "{7F161CB8-A24A-49DE-AD05-B0C41AB0B98D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg 90.6 Automatiske egenskaber", "ConsoleApp2\Opg 90.6 Automatiske egenskaber.csproj", "{7F161CB8-A24A-49DE-AD05-B0C41AB0B98D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nedarvning", "Nedarvning\Nedarvning.csproj", "{BA75D18A-55EF-4A83-8D40-A397F53A5F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nedarvning", "Nedarvning\Nedarvning.csproj", "{BA75D18A-55EF-4A83-8D40-A397F53A5F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg_100_1_Simpel_Polymorfi", "Opg_100_1_Simpel_Polymorfi\Opg_100_1_Simpel_Polymorfi.csproj", "{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg_100_1_Simpel_Polymorfi", "Opg_100_1_Simpel_Polymorfi\Opg_100_1_Simpel_Polymorfi.csproj", "{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg_105_4_Polymorfi", "Opg_105_4_Polymorfi\Opg_105_4_Polymorfi.csproj", "{1E5564C1-7E67-4D3C-908C-F9A095C4962E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg_110_2_Interface", "Opg_110_2_Interface\Opg_110_2_Interface.csproj", "{E2C2D81A-5576-416F-A264-BE8BB2F33943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg_110_1_Interface", "Opg_110_1_Interface\Opg_110_1_Interface.csproj", "{B5C91D37-E2C6-4E0A-A1CC-95CCE0C5EE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg_120_1_simpel_delegate", "opg_120_1_simpel_delegate\opg_120_1_simpel_delegate.csproj", "{C80A0E01-17C8-4B7B-A1CA-0E77207EC9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg_120_2_delegates_regnemaskine", "opg_120_2_delegates_regnemaskine\opg_120_2_delegates_regnemaskine.csproj", "{5D62C8FD-3EC2-436C-92E3-ECE87CA14596}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +157,26 @@ Global
 		{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03E57D1F-F8B9-49CC-99B7-AC8029AD1E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5564C1-7E67-4D3C-908C-F9A095C4962E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5564C1-7E67-4D3C-908C-F9A095C4962E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5564C1-7E67-4D3C-908C-F9A095C4962E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5564C1-7E67-4D3C-908C-F9A095C4962E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C2D81A-5576-416F-A264-BE8BB2F33943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C2D81A-5576-416F-A264-BE8BB2F33943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C2D81A-5576-416F-A264-BE8BB2F33943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C2D81A-5576-416F-A264-BE8BB2F33943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C91D37-E2C6-4E0A-A1CC-95CCE0C5EE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C91D37-E2C6-4E0A-A1CC-95CCE0C5EE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C91D37-E2C6-4E0A-A1CC-95CCE0C5EE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C91D37-E2C6-4E0A-A1CC-95CCE0C5EE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80A0E01-17C8-4B7B-A1CA-0E77207EC9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80A0E01-17C8-4B7B-A1CA-0E77207EC9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80A0E01-17C8-4B7B-A1CA-0E77207EC9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80A0E01-17C8-4B7B-A1CA-0E77207EC9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D62C8FD-3EC2-436C-92E3-ECE87CA14596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D62C8FD-3EC2-436C-92E3-ECE87CA14596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D62C8FD-3EC2-436C-92E3-ECE87CA14596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D62C8FD-3EC2-436C-92E3-ECE87CA14596}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
