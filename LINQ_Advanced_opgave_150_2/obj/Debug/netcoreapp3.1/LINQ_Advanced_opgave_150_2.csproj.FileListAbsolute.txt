@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\obj\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\obj\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.exe
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.deps.json
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.runtimeconfig.json
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.dll
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.pdb
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\MCronberg.CSCourseHelper.Standard.dll
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\obj\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.csproj.CopyComplete
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\obj\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.dll
+C:\Users\admin\source\repos\rep\LINQ_Advanced_opgave_150_2\obj\Debug\netcoreapp3.1\LINQ_Advanced_opgave_150_2.pdb

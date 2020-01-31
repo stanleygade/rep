@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\rep\FileSystemWatcher\bin\Debug\netcoreapp3.1\FileSystemWatcher.exe
+C:\Users\admin\source\repos\rep\FileSystemWatcher\bin\Debug\netcoreapp3.1\FileSystemWatcher.deps.json
+C:\Users\admin\source\repos\rep\FileSystemWatcher\bin\Debug\netcoreapp3.1\FileSystemWatcher.runtimeconfig.json
+C:\Users\admin\source\repos\rep\FileSystemWatcher\bin\Debug\netcoreapp3.1\FileSystemWatcher.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\FileSystemWatcher\bin\Debug\netcoreapp3.1\FileSystemWatcher.dll
+C:\Users\admin\source\repos\rep\FileSystemWatcher\bin\Debug\netcoreapp3.1\FileSystemWatcher.pdb
+C:\Users\admin\source\repos\rep\FileSystemWatcher\obj\Debug\netcoreapp3.1\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\FileSystemWatcher\obj\Debug\netcoreapp3.1\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\FileSystemWatcher\obj\Debug\netcoreapp3.1\FileSystemWatcher.dll
+C:\Users\admin\source\repos\rep\FileSystemWatcher\obj\Debug\netcoreapp3.1\FileSystemWatcher.pdb

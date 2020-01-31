@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\bin\Debug\netcoreapp3.1\Event_Egen_KreditMax.exe
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\bin\Debug\netcoreapp3.1\Event_Egen_KreditMax.deps.json
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\bin\Debug\netcoreapp3.1\Event_Egen_KreditMax.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\bin\Debug\netcoreapp3.1\Event_Egen_KreditMax.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\bin\Debug\netcoreapp3.1\Event_Egen_KreditMax.dll
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\bin\Debug\netcoreapp3.1\Event_Egen_KreditMax.pdb
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\obj\Debug\netcoreapp3.1\Event_Egen_KreditMax.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\obj\Debug\netcoreapp3.1\Event_Egen_KreditMax.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\obj\Debug\netcoreapp3.1\Event_Egen_KreditMax.dll
+C:\Users\admin\source\repos\rep\Event_Egen_KreditMax\obj\Debug\netcoreapp3.1\Event_Egen_KreditMax.pdb

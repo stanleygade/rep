@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\bin\Debug\netcoreapp3.1\Regnemaskine_Lambda.exe
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\bin\Debug\netcoreapp3.1\Regnemaskine_Lambda.deps.json
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\bin\Debug\netcoreapp3.1\Regnemaskine_Lambda.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\bin\Debug\netcoreapp3.1\Regnemaskine_Lambda.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\bin\Debug\netcoreapp3.1\Regnemaskine_Lambda.dll
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\bin\Debug\netcoreapp3.1\Regnemaskine_Lambda.pdb
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\obj\Debug\netcoreapp3.1\Regnemaskine_Lambda.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\obj\Debug\netcoreapp3.1\Regnemaskine_Lambda.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\obj\Debug\netcoreapp3.1\Regnemaskine_Lambda.dll
+C:\Users\admin\source\repos\rep\Regnemaskine_Lambda\obj\Debug\netcoreapp3.1\Regnemaskine_Lambda.pdb

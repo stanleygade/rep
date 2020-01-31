@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LINQ_Advanced_opgave_150_2/1.0.0": {
+        "dependencies": {
+          "MCronberg.CSCourseHelper.Standard": "1.0.3"
+        },
+        "runtime": {
+          "LINQ_Advanced_opgave_150_2.dll": {}
+        }
+      },
+      "MCronberg.CSCourseHelper.Standard/1.0.3": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MCronberg.CSCourseHelper.Standard.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_Advanced_opgave_150_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MCronberg.CSCourseHelper.Standard/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z/ML4bT0bSAqqZc/QrPykZ47Q0Ig66CUM+eaALi1ZACNlOMRlXAFcT/1mNxRU78W1hEegX7vLieqVjL0AaXJFg==",
+      "path": "mcronberg.cscoursehelper.standard/1.0.3",
+      "hashPath": "mcronberg.cscoursehelper.standard.1.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}

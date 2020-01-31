@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\rep\Rekurs\obj\Debug\netcoreapp3.1\Rekurs.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\rep\Rekurs\obj\Debug\netcoreapp3.1\Rekurs.AssemblyInfo.cs
+C:\Users\admin\source\repos\rep\Rekurs\bin\Debug\netcoreapp3.1\Rekurs.exe
+C:\Users\admin\source\repos\rep\Rekurs\bin\Debug\netcoreapp3.1\Rekurs.deps.json
+C:\Users\admin\source\repos\rep\Rekurs\bin\Debug\netcoreapp3.1\Rekurs.runtimeconfig.json
+C:\Users\admin\source\repos\rep\Rekurs\bin\Debug\netcoreapp3.1\Rekurs.runtimeconfig.dev.json
+C:\Users\admin\source\repos\rep\Rekurs\bin\Debug\netcoreapp3.1\Rekurs.dll
+C:\Users\admin\source\repos\rep\Rekurs\bin\Debug\netcoreapp3.1\Rekurs.pdb
+C:\Users\admin\source\repos\rep\Rekurs\obj\Debug\netcoreapp3.1\Rekurs.dll
+C:\Users\admin\source\repos\rep\Rekurs\obj\Debug\netcoreapp3.1\Rekurs.pdb
